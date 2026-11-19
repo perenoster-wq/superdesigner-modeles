@@ -1,0 +1,66 @@
+{
+ "version": 1,
+ "nom": "Catalogue Super Designer",
+ "modeles": [
+  {
+   "id": "noel-paroisse",
+   "nom": "Messe de Noël",
+   "secteur": "Paroisse",
+   "occasion": "Noël",
+   "format": "a4p",
+   "desc": "A4 portrait. Ciel étoilé, lumière dorée, typographie solennelle.",
+   "fichier": "modeles/noel-paroisse.json",
+   "rev": "1"
+  },
+  {
+   "id": "pagne-mode",
+   "nom": "Défilé de mode",
+   "secteur": "Commerce",
+   "occasion": "Mode",
+   "format": "a4p",
+   "desc": "A4 portrait. Photo de mode plein cadre, coup de pinceau, typographie magazine.",
+   "fichier": "modeles/pagne-mode.json",
+   "rev": "1"
+  },
+  {
+   "id": "bapteme-aquarelle",
+   "nom": "Baptême aquarelle",
+   "secteur": "Paroisse",
+   "occasion": "Baptême",
+   "format": "a5p",
+   "desc": "A5 portrait. Papier, aquarelles douces, colombe, écriture élégante.",
+   "fichier": "modeles/bapteme-aquarelle.json",
+   "rev": "1"
+  },
+  {
+   "id": "promo-food",
+   "nom": "Promo restaurant",
+   "secteur": "Restauration",
+   "occasion": "Promotion",
+   "format": "post-carre",
+   "desc": "Publication carrée. Photo culinaire, éclaboussure, prix choc.",
+   "fichier": "modeles/promo-food.json",
+   "rev": "1"
+  },
+  {
+   "id": "concert-story",
+   "nom": "Concert live (story)",
+   "secteur": "Musique",
+   "occasion": "Concert",
+   "format": "story",
+   "desc": "Story 9:16. Scène, lumières froides, titre néon.",
+   "fichier": "modeles/concert-story.json",
+   "rev": "1"
+  },
+  {
+   "id": "recrutement-pro",
+   "nom": "Nous recrutons",
+   "secteur": "Entreprise",
+   "occasion": "Recrutement",
+   "format": "a4p",
+   "desc": "A4 portrait. Dégradé menthe, motif géométrique, photo d'équipe.",
+   "fichier": "modeles/recrutement-pro.json",
+   "rev": "1"
+  }
+ ]
+}
